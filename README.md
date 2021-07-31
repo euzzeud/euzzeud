@@ -3,12 +3,12 @@
 ⚡ French developer Web & Visual Basic.  
 🤖 Creator of [SYMY](https://symy.netlify.app/) Discord bot.  
 
+![Euzzeud's GitHub stats](https://github-readme-stats.vercel.app/api?username=euzzeud&count_private=true&show_icons=true&theme=tokyonight&border_radius=10px)
+
 ## Contact me 💼
 
 **My website:** *https://euzzeud.x-h.fr*  
 **On Discord:** *[Euzzeud#6040](https://dsc.bio/euzzeud)*
-
-![Euzzeud's GitHub stats](https://github-readme-stats.vercel.app/api?username=euzzeud&count_private=true&show_icons=true&theme=tokyonight&border_radius=10px)
 
 
 <!--
