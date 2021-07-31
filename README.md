@@ -1,11 +1,11 @@
 ### Hi there, I'm Euzzeud! 👋
 
-⚡ French developer Web & Visual Basic.
-🤖 Creator of [SYMY](https://symy.netlify.app/) Discord bot.
+⚡ French developer Web & Visual Basic.  
+🤖 Creator of [SYMY](https://symy.netlify.app/) Discord bot.  
 
 ## Contact me 💼
 
-**My website:** *https://euzzeud.x-h.fr*
+**My website:** *https://euzzeud.x-h.fr*  
 **On Discord:** *[Euzzeud#6040](https://dsc.bio/euzzeud)*
 
 
