@@ -8,6 +8,8 @@
 **My website:** *https://euzzeud.x-h.fr*  
 **On Discord:** *[Euzzeud#6040](https://dsc.bio/euzzeud)*
 
+![Euzzeud's GitHub stats](https://github-readme-stats.vercel.app/api?username=euzzeud&count_private=true)
+
 
 <!--
 **euzzeud/euzzeud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
