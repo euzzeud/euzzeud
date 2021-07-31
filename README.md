@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Euzzeud! 👋
+
+⚡ French developer Web & Visual Basic.
+🤖 Creator of [SYMY](https://symy.netlify.app/) Discord bot.
+
+## Contact me 💼
+
+**My website:** *https://euzzeud.x-h.fr*
+**On Discord:** *[Euzzeud#6040](https://dsc.bio/euzzeud)*
+
 
 <!--
 **euzzeud/euzzeud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
