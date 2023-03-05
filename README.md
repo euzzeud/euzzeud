@@ -7,7 +7,6 @@
 
 ## Contact me 💼
 
-**My website:** *https://euzzeud.x-h.fr*  
 **On Discord:** *[Euzzeud#6040](https://dsc.bio/euzzeud)*
 
 
